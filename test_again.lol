@@ -1,0 +1,1 @@
+VISIBLE 'I like LOLCODE!'
