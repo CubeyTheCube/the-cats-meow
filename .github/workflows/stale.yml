@@ -17,6 +17,6 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         stale-issue-message: 'The issue has turned stale, like bread.'
-        stale-pr-message: 'The pull request made is stale as if it was bread.'
+        stale-pr-message: 'This pull request has no activity, and you can not bump it.'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
