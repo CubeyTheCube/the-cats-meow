@@ -1,5 +1,5 @@
 # the-cats-meow
-A large project made in multiple languages.
+A large project made in multiple languages. Languages include Ruby, JavaScript, and LOLCODE.
 # Q&A
 ## Are you okay?
 Yes.
