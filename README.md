@@ -5,5 +5,6 @@ A large project made in multiple languages. Languages include Ruby, JavaScript, 
 Yes.
 ## How do I suggest things?
 Comment on the pinned issue or, if you are super smart, you can make a pull request.
-## You stole [Jeffalo](https://github.com/Jeffalo)'s Q&A idea!
+## You stole [Jeffalo](https://prodigy-math-game.fandom.com/f/p/4400000000000171104)'s Q&A idea!
 No.
+[Useless link](https://github.com/Jeffalo)
