@@ -7,5 +7,3 @@ Yes.
 Comment on the pinned issue or, if you are super smart, you can make a pull request.
 ## You stole [Jeffalo](https://github.com/Jeffalo)'s Q&A idea!
 No.
-# Useless link
-[Gale, are you okay?](https://prodigy-math-game.fandom.com/f/p/4400000000000171104)
